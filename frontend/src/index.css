@@ -1,0 +1,16 @@
+/* src/index.css */
+
+/* Reset default styles */
+* {
+  box-sizing: border-box; /* Ensure padding and borders do not affect width */
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif; /* Set a default font */
+  background-color: #f0f0f0; /* Light background color */
+  color: #333; /* Default text color */
+  line-height: 1.6; /* Improve readability */
+}
